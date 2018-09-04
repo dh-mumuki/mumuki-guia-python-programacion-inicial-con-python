@@ -1,0 +1,1 @@
+1) Escribe una función en Python que reciba un número, y si ese número es menor a 17 que devuelva su diferencia con 17; y si es mayor, el doble del valor absoluto de la diferencia. Testear con 14 y 21.

@@ -3,7 +3,8 @@ name: Programación inicial con Python
 locale: es
 type: practice
 beta: false
-teacher_info: 
+teacher_info: ''
 language: python
 id_format: "%05d"
-order: []
+order:
+- 1
