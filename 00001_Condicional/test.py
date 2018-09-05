@@ -1,8 +1,5 @@
-def difference(n):
-    if n <= 17:
-        return 17 - n
-    else:
-        return (n - 17) * 2 
-
-print(difference(22))
-print(difference(14))
+@Test
+public void test() {
+  Assert.assertTrue(difference(22) == 10);
+  Assert.assertTrue(difference(14) == 3);
+}
