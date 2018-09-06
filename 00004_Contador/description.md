@@ -1,0 +1,1 @@
+Escribe un función en Python que cuente cuantas veces apaarece el número 4 en una lista.
