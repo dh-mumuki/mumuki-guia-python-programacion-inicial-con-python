@@ -1,0 +1,1 @@
+Escribe una función en Python que reciba un número y devuelva True si es número primo.
