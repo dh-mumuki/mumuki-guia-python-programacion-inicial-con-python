@@ -1,0 +1,1 @@
+ Escribe una función en Python que reciba un número, y un listado de números y devuleva TRUE si el número pertenece a la lista.¶
