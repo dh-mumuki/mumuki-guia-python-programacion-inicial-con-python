@@ -1,0 +1,1 @@
+Escribe una función en Python que cree e imprima una lista con todos los cuadrados de los números entre 1 y 30 (incluidos).
