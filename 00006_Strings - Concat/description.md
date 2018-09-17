@@ -1,1 +1,1 @@
-Escribe una función en Python que reciba una lista y concatene cada elemento de la lista en un string.
+Escribe una función en Python que reciba una lista y concatene cada elemento de la lista en un único string.
