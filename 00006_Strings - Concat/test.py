@@ -1,4 +1,5 @@
 class TestFixtures(unittest.TestCase):
+   
    def test_concat(self):
-      self.assertEqual('154', '154') 
+      self.assertEquals(concat_lista(['1','5','4']), '154') 
       
