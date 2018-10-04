@@ -1,1 +1,1 @@
-def sumatoria(
+def repetidos(
