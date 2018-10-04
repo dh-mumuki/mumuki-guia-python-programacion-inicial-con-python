@@ -1,0 +1,1 @@
+Escibir una funcion que dado un numero, calcule con una lista por comprensión un rango de valores que vaya de 0 a 10, filtrando con un if, valores impares.
