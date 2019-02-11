@@ -1,1 +1,1 @@
- Escribe una función en Python que reciba un lista y devuelva otra lista con los valores únicos.
+Escribí una función que reciba un lista y devuelva otra lista con los valores únicos.
