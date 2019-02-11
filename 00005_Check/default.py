@@ -1,1 +1,1 @@
-def estar(numero, lista_numeros):
+def estar(

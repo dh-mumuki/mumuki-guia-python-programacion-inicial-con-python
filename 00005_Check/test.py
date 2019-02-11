@@ -3,5 +3,5 @@ class TestFixtures(unittest.TestCase):
     self.assertTrue(estar(5,[1, 5, 8, 3]))
 
   def test_False(self):
-    self.assertFalse(estar( 2, [1, 5, 8, 3]))
+    self.assertEqual(estar(2, [1, 5, 8, 3]), [1, 5, 8, 3, 2])
     
