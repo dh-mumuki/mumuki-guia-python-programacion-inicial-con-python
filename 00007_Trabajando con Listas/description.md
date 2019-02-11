@@ -1,1 +1,0 @@
- Escribe una función en Python que reciba una lista de números que devuelva los pares de esa lista, y que detenga la secuencia si alguno de los número es el 248.
