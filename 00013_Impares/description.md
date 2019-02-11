@@ -1,1 +1,1 @@
-Escibir una funcion que dado un numero, calcule con una lista por comprensión un rango de valores que vaya de 0 a 10, filtrando con un if, valores impares.
+Escribí una función que, dado un número, devuelva una lista por comprensión con los los números impares comprendidos entre 0 y ese número.
