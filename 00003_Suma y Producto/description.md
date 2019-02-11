@@ -1,1 +1,0 @@
-Escribe una función en Python que calcule la suma de tres números dados, y si son iguales que devuelva el triple de la suma.
