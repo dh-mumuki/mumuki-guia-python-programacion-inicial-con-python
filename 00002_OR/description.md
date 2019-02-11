@@ -1,1 +1,0 @@
-2) Escriba una función en Python que reciba un número e indique "TRUE" si se encuentra entre 100 y 1000.
