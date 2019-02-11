@@ -1,1 +1,0 @@
-Escribe una función en Python que tome una lista y devuelva True si hay dos número iguales, y False si son todos distintos.
